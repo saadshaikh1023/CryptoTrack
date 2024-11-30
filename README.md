@@ -82,5 +82,6 @@ python cryptocurrency_fetcher.py
 
 # Demo
 Check out the price of bitcoin in this demo video to see the results.
+
 https://github.com/user-attachments/assets/f266af1e-0b33-43ec-a41e-083d1a8f256b
 
